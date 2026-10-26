@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Remind Fresh</string>
+    <string name="channel_reminders">Reminders</string>
+    <string name="channel_alarms">Alarm reminders</string>
+    <string name="channel_water">Water</string>
+</resources>
